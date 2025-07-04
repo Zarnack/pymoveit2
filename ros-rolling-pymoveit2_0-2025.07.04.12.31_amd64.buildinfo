@@ -2,16 +2,16 @@ Format: 1.0
 Source: ros-rolling-pymoveit2
 Binary: ros-rolling-pymoveit2
 Architecture: amd64
-Version: 0-2025.07.04.12.29
+Version: 0-2025.07.04.12.31
 Checksums-Md5:
- 30980941346c64a1d93a3b6d06849972 27048 ros-rolling-pymoveit2_0-2025.07.04.12.29_amd64.deb
+ db25361d97aec6f6839885892fd9303c 27034 ros-rolling-pymoveit2_0-2025.07.04.12.31_amd64.deb
 Checksums-Sha1:
- f9c20f58b4c553e21b592aa929c4bc74d89bb2a4 27048 ros-rolling-pymoveit2_0-2025.07.04.12.29_amd64.deb
+ 1d4bd97975a1fc3654a6f43a88344c3e25b94fa2 27034 ros-rolling-pymoveit2_0-2025.07.04.12.31_amd64.deb
 Checksums-Sha256:
- ca4ffdaf0135e0b9ec4a95035880f04211f481c09d636589f6ceaf8eb755c98a 27048 ros-rolling-pymoveit2_0-2025.07.04.12.29_amd64.deb
+ f45d7493cff213facb17a468b8c0cac6c5c185661481ec39a5c96e8df26f9859 27034 ros-rolling-pymoveit2_0-2025.07.04.12.31_amd64.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Fri, 04 Jul 2025 12:29:37 +0000
+Build-Date: Fri, 04 Jul 2025 12:32:16 +0000
 Build-Path: /build/package/package
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
@@ -248,4 +248,4 @@ Environment:
  LANG="C.UTF-8"
  LC_ALL="C.UTF-8"
  LC_COLLATE="C.UTF-8"
- SOURCE_DATE_EPOCH="1751632145"
+ SOURCE_DATE_EPOCH="1751632304"
